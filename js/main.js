@@ -72,11 +72,4 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 });
 
-// Contact form (static demo + alert)
-const form = document.getElementById('contact-form');
-if (form) {
-  form.addEventListener('submit', (e) => {
-    e.preventDefault();
-    alert('Form submission is disabled on this static demo. Connect Formspree or Netlify Forms (see README).');
-  });
-}
+
