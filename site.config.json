@@ -15,7 +15,7 @@
   "certificates": [
     {
       "title": "Cisco Linux Unhatched",
-      "file": "assets/certificates/Linux_Unhatched.svg"
+      "file": "Linux_unhatched.svg"
     },
     {
       "title": "Frontend Development",
