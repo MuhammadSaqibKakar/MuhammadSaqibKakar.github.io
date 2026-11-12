@@ -1,29 +1,8 @@
 {
   "name": "Muhammad Saqib Kakar",
-  "title": "Software Engineer \u00b7 Aspiring DevOps & Cloud Engineer",
+  "title": "Software Engineer · Full-Stack Web Developer",
   "location": "Quetta, Pakistan",
-  "email": "engrsaqibkakar241@gmail.com",
-  "links": {
-    "linkedin": "https://www.linkedin.com/in/muhammad-saqib-2273a337b/",
-    "github": "https://github.com/MuhammadSaqibKakar",
-    "youtube": "https://www.youtube.com/@ByteBlitzPk"
-  },
-  "summary": "Final-year Software Engineering student at BUITEMS Quetta . Passionate about DevOps, Cloud, CI/CD, Linux, and automation. I create helpful university-level content and practical engineering tutorials.",
-  "skills": [
-    
-  ],
-  "certificates": [
-    {
-      "title": "Cisco Linux Unhatched",
-      "file": "Linux_unhatched.svg"
-    },
-    {
-      "title": "Frontend Development",
-      "file": "Frontend_Development.svg"
-    },
-    {
-      "title": "Cisco Linux Essentials ",
-      "file": "Linux_Essentials_certificate.svg"
-    }
-  ]
+  "status": "Legacy portfolio — redirected to current website",
+  "summary": "BS Software Engineering graduate (BUITEMS, 2026), currently working on web applications, dashboards and data systems.",
+  "currentPortfolio": "https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/"
 }
